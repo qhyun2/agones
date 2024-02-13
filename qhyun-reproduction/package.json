@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@google-cloud/agones-sdk": "^1.38.0"
+  }
+}
